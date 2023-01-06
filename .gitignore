@@ -1,2 +1,4 @@
 *.env
+*.env.ps1
+*.auth.json
 venv/
